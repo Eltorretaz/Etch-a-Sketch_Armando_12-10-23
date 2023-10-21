@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap');
-
+alkskjdhasdjkhalsd
 * {
     font-family: 'Tilt Neon', sans-serif;
 }
@@ -30,9 +30,8 @@ header {
     justify-content: center;
 }
 
-#contenedor>div {
+.contenedor>div {
     box-sizing: border-box;
-    background-color: white;
     border: 1.5px solid black;
 }
 
@@ -76,4 +75,8 @@ header {
     border: 2px solid black;
     text-align: center;
     background-color: white;
+}
+
+.black {
+    background-color: black;
 }
